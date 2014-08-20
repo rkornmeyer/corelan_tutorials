@@ -1,6 +1,7 @@
 '''
 Created on Aug 18, 2014
 @author: Original Author Peter Van Eeckhoutte
+@contact: http://www.corelan.be
 @author: rjk
 '''
 import sys
